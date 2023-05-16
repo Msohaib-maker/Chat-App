@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/the_settings"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+
+    <item android:id="@+id/the_themes"
+        android:title="Themes"
+        tools:ignore="HardcodedText" />
+
+</menu>

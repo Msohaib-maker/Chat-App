@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/bubbly.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/bubbly1.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/edit_text_boxes.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/person_ui.xml" value="0.176" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/register_buttons_theme.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/round.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/shadow.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/text_box.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/drawable/text_box_ui.xml" value="0.2155" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_chatter_profile.xml" value="0.23514322359982898" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_conversation.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_my_settings.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_offline_login.xml" value="0.23514322359982898" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/activity_sign_up.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/credentials_dialog.xml" value="0.23428815733219324" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/message_holder.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/person_holder.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/reciever_message_holder.xml" value="0.536" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/layout/sender_message_holder.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SMD_A1/app/src/main/res/menu/display_menu.xml" value="0.2864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
